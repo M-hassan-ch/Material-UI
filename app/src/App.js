@@ -4,6 +4,7 @@ import Btn from "./components/Btn";
 import Icon from "./components/Icon";
 import CustomStyle from "./components/CustomStyle";
 import TxtField from "./components/TxtField";
+import RadioBtn from "./components/RadioBtn";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Icon></Icon>
       <CustomStyle></CustomStyle> */}
       <TxtField></TxtField>
+      <RadioBtn></RadioBtn>
       
     </>
   );
