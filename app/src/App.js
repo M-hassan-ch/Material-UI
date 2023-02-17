@@ -5,6 +5,7 @@ import Icon from "./components/Icon";
 import CustomStyle from "./components/CustomStyle";
 import TxtField from "./components/TxtField";
 import RadioBtn from "./components/RadioBtn";
+import Grids from "./components/Grids";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <CustomStyle></CustomStyle> */}
       <TxtField></TxtField>
       <RadioBtn></RadioBtn>
+      <Grids></Grids>
       
     </>
   );
